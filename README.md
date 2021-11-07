@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @knads98!
 - 👀 I’m interested in public health data science and machine learning, as well as decoding algorithmic biases.
-- 🌱 I’m currently learning Python for data analysis 
-- 💞️ I’m looking to collaborate on public health data analysis, particularly machine learning projects that focus on recognising and predicting health disparities and health outcomes across different groups
-- 📫 You can reach me on here, or by emailing my at nadia_blocker@hotmail.co.uk
+- 🌱 I’m currently learning Python and R for data analysis 
+- 💞️ I’m looking to collaborate on beginner level data wrangling and analysis, with a focus on public health and health equity and machine learning projects that focus on recognising and predicting health outcomes across different groups
+- 📫 You can reach me on here, or by emailing me at nadia_blocker@hotmail.co.uk
